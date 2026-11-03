@@ -1,14 +1,14 @@
 <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/02ea076d-649f-4d96-9cf5-3769adc07e0c" />
 
-## 📫 Contacto
+## CONTACTO
 
 <a href="https://www.linkedin.com/in/lola-mancebo-olivares-630710419/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## 📚 Formación
+## FORMACIÓN
 
-| 🤖 IA y Machine Learning | 📐 Matemáticas | 💻 Datos y Software | ⚙️ Sistemas |
+| IA y Machine Learning | Matemáticas | Datos y Software | Sistemas |
 |---|---|---|---|
 | Fundamentos de IA | Álgebra y Geometría | Programación | Física |
 | Aprendizaje Automático | Análisis y Cálculo Vectorial | Algoritmos y Estructuras de Datos | Sistemas Electrónicos |
@@ -19,7 +19,7 @@
 | | Optimización y Simulación | | |
 | | Geometría Computacional | | |
 
-## 🛠️ Tecnologías
+## TECNOLOGÍAS
 
 **Lenguajes**
 
